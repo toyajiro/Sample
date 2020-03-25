@@ -1,5 +1,2 @@
 push test!!
-
-
-
-
+https://github.com/toyajiro/Sample.git
